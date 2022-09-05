@@ -14,3 +14,13 @@ A hospital wants to determine whether there is any difference in the average Tur
 Anova ftest statistics: Analysis of varaince between more than 2 samples or columns Assume Null Hypothesis Ho as No Varaince: All samples TAT population means are same
 
 Thus Alternate Hypothesis Ha as It has Variance: Atleast one sample TAT population mean is different
+
+### Question-3:
+
+Chi2 contengency independence test
+
+![115687291-a800ea00-a377-11eb-97fe-d6d423e9f253](https://user-images.githubusercontent.com/110719731/188441088-eb3ba4ad-4e5e-4173-baac-f7f5c71270a9.png)
+
+Assume Null Hypothesis as Ho: Independence of categorical variables (male-female buyer rations are similar across regions (does not vary and are not related) Thus Alternate Hypothesis as Ha: Dependence of categorical variables (male-female buyer rations are NOT similar across regions (does vary and somewhat/significantly related)
+
+Inference: As (p-value = 0.6603) > (α = 0.05); Accept the Null Hypothesis i.e. Independence of categorical variables Thus, male-female buyer rations are similar across regions and are not related
